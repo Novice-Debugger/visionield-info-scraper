@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/visionield-info-scraper/static/css/main.ed0fcb0d.css",
+    "main.js": "/visionield-info-scraper/static/js/main.ec178c64.js",
+    "index.html": "/visionield-info-scraper/index.html",
+    "main.ed0fcb0d.css.map": "/visionield-info-scraper/static/css/main.ed0fcb0d.css.map",
+    "main.ec178c64.js.map": "/visionield-info-scraper/static/js/main.ec178c64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0fcb0d.css",
+    "static/js/main.ec178c64.js"
+  ]
+}
